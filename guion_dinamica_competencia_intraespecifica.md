@@ -40,9 +40,11 @@ La sesión consta de tres secciones diferentes:
 El objetivo de esta fase es que los estudiantes traigan a su memoria de trabajo el conocimiento previamente adquirido sobre la competencia intraespecífica. Para ello el profesor realizará una serie de preguntas al grupo sobre los conceptos clave de la competencia intraespecífica:
 
 + Definición general.
-+ Formulación matemática.
-+ Definición de capacidad de carga.
++ Efectos de la competencia intraespecífica sobre la mortalidad y la natalidad
 + Concepto de reclutamiento.
++ Concepto de capacidad de carga.
++ Formulación matemática.
++ Estrategas de la r y de la K
 + Etc.
 
 
@@ -51,7 +53,7 @@ El objetivo de esta fase es que los estudiantes traigan a su memoria de trabajo 
 
 Dividiremos en grupos pequeños (unas 4 personas) a la clase. Cada grupo discutirá el papel que tiene la competencia intraespecífica en una serie de casos de estudio concretos. La competencia intraespecífica tiene orígenes y consecuencias diferentes en cada uno de los siguientes casos de estudio:
 
-1. **Renacuajos en una charla estacinal**. Los renacuajos se alimentan al principio de algas y materia vegetal muerta. Cuando crecen, necesitan también insectos acuáticos y gusanos. Conforme crecen, van necesitando más recursos y estos escasean en la charca. Además, al ser estacional, la charca va reduciendo su tamaño. Reflexiona sobre este caso concreto y aborda las siguientes preguntas:
+1. **Renacuajos en una charla estacional**. Los renacuajos se alimentan al principio de algas y materia vegetal muerta. Cuando crecen, necesitan también insectos acuáticos y gusanos. Conforme crecen, van necesitando más recursos y estos escasean en la charca. Además, al ser estacional, la charca va reduciendo su tamaño. Reflexiona sobre este caso concreto y aborda las siguientes preguntas:
    + ¿Compiten por espacio o por recursos en este caso?
    + ¿Se puede considerar constante la capacidad de carga de la charca?
    + ¿Qué ocurre cuando se supera la capacidad de carga?
@@ -76,7 +78,32 @@ Dividiremos en grupos pequeños (unas 4 personas) a la clase. Cada grupo discuti
 
 ### Puesta en común de los grupos (2' por grupo = 10')
 
-Tras el trabajo en grupo se realizará una exposición de unos dos minutos por grupo de las conclusiones obtenidas en cada caso. Trataremos de sacar conclusiones generales de cada intervención.
+Tras el trabajo en grupo se realizará una exposición de unos dos minutos por grupo de las conclusiones obtenidas en cada caso. Trataremos de sacar conclusiones de cada intervención:
+
+1. **Renacuajos en una charla estacional**. 
+   + ¿Compiten por espacio o por recursos en este caso?
+   + ¿Se puede considerar constante la capacidad de carga de la charca?
+   + ¿Qué ocurre cuando se supera la capacidad de carga?
+2. **Ciervos machos en la época de celo**. 
+   + ¿De qué tipo de competencia hablamos aquí?
+   + ¿Qué efecto tiene esta competencia en la demografía de la población?
+   + ¿Qué efecto tendría sobre la población si extrajéramos de la población los individuos más vigorosos?
+3. **Pinar de repoblación muy denso**. 
+   + ¿Qué efecto tiene la competencia en este caso?
+   + ¿Cómo será el reclutamiento en un pinar de repoblación denso y antiguo?
+   + ¿Qué podría pasar si no se limita la competencia cortando algunos árboles?
+4. **El cainismo en rapaces**. 
+   + ¿Podríamos decir que este fenómeno es competencia intraespecífica?
+   + Si no existiera el cainismo, ¿qué efectos tendría en la población que todos los polluelos sobrevivieran?
+   + ¿Qué efectos tiene sobre el reclutamiento el cainismo?
+5. **Praderas de *Posidonia***. 
+   + ¿Contradice este fenómeno lo que hemos estudiado sobre la competencia intraespecífica?
+   + ¿En qué medida la fijación de nutrientes y sedimentos por parte de las posidonias cambia la capacidad de carga del medio?
+   + ¿Cómo cambia el reclutamiento conforme va aumentando el tamaño de la población?
+
+De los resultados particulares anteriores podemos, además, extraer las siguientes conclusiones generales:
++ En casi ninguno de los ejemplos anteriores se representa la competencia como un aumento en el número de individuos de una población. En la mayoría de los casos la competencia ocurre porque los individuos crecen, ocupan más espacio y requieren más recursos.
++ Para que los ejemplos anteriores "funcionen bien", es decir, para que cumplan su función de aprendizaje, hemos necesitado incorporar elementos externos a la población: recursos. Es la primera vez que el concepto de población se "nos queda pequeño".
 
 
 
