@@ -121,8 +121,12 @@ Tras el trabajo en grupo se realizará una exposición de unos dos minutos por g
      + El negativo puede ser que se altere el ritmo reproductivo. Al criar solo un polluelo hay menos tasa de natalidad.
 5. **Praderas de *Posidonia***. 
    + ¿Contradice este fenómeno lo que hemos estudiado sobre la competencia intraespecífica?
+     + sí, a priori.
    + ¿En qué medida la fijación de nutrientes y sedimentos por parte de las posidonias cambia la capacidad de carga del medio?
+     + Aumenta la capacidad de carga.
    + ¿Cómo cambia el reclutamiento conforme va aumentando el tamaño de la población?
+     + aumentará 
+     + no es que escape a la competencia, es que esto ocurre al principio del crecimiento...
 
 De los resultados particulares anteriores podemos, además, extraer las siguientes conclusiones generales:
 
