@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una sesión teórica en clase
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2025_2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/heads/2025_2026/imagenes/portada.png)
 
 
 
@@ -87,6 +87,7 @@ Tras el trabajo en grupo se realizará una exposición de unos dos minutos por g
      + En primer lugar decimos que la capacidad de carga es constante y que la población, al crecer, "agota" los recursos y la población entra en fase logístico. Esto está mal porque en realidad la población no aumenta. Son los renacuajos los que se hacen más gordotes. Además, la charca mengua porque se va evaporando el agua. Así que no, la capacidad de carga no es constante. 
    + ¿Qué ocurre cuando se supera la capacidad de carga?
      + Cuando se llega a la capacidad de carga, los individuos compiten y sobreviven solo los mejor adaptados. Es decir, los que resistan mejor la desecación y la falta de alimento. 
+   
 2. **Ciervos machos en la época de celo**. 
    + ¿De qué tipo de competencia hablamos aquí?
      + En primer lugar decimos que compiten por recursos e interfieren entre sí. Pero es mejor decir que hay competencia sexual. Se observa aquí cierta jerarquía porque hay machos más dominantes que otros.
@@ -97,6 +98,7 @@ Tras el trabajo en grupo se realizará una exposición de unos dos minutos por g
    + ¿Qué efecto tendría sobre la población si extrajéramos de la misma los individuos más vigorosos?
      + En principio podemos pensar que extraer los machos dominantes reduciría la tasa de reproducción porque son esos los que se reproducen. Pero seguramente esto no sea así porque si quitamos a los fuertes los débiles (pagafantas, parguelas, pringaos) podríamos reproducirnos. No estamos seguros de esto último.
      + Esto provocaría un descenso en la "calidad genética" de la población porque los menos fuertes se reproducirían. 
+   
 3. **Pinar de repoblación muy denso**. 
    + ¿Qué efecto tiene la competencia en este caso?
      + Es muy intensa. Reduce la diversidad del bosque. Habrá pocas zonas con sol y habrá pocas especies además de los pinos. 
@@ -111,6 +113,7 @@ Tras el trabajo en grupo se realizará una exposición de unos dos minutos por g
      + Aumento de riesgo de incendios porque hay mucha biomasa con similar capacidad de quemarse.
      + Gran probabilidad de colapso porque todos los árboles necesitan recursos a la vez.
      + Las piñas que arden pueden crear otros incendios en los alrededores. 
+   
 4. **El cainismo en rapaces**. 
    + ¿Podríamos decir que este fenómeno es competencia intraespecífica?
      + Sí. Encaja con nuestra definición porque compiten individuos de la misma especie en un contexto en el que los recursos son limitados. Puede que haya poco alimento.
@@ -119,14 +122,16 @@ Tras el trabajo en grupo se realizará una exposición de unos dos minutos por g
    + ¿Qué efectos tiene sobre el reclutamiento el cainismo?
      + Tiene un efecto positivo: hay reclutamiento. Alguno. Aunque no salgan adelante todos los polluelos.
      + El negativo puede ser que se altere el ritmo reproductivo. Al criar solo un polluelo hay menos tasa de natalidad.
+   
 5. **Praderas de *Posidonia***. 
    + ¿Contradice este fenómeno lo que hemos estudiado sobre la competencia intraespecífica?
-     + sí, a priori.
+     + En principio sí lo contradice porque habíamos dicho que la competencia dificulta el crecimiento de los individuos y también reduce su capacidad de reproducirse. 
    + ¿En qué medida la fijación de nutrientes y sedimentos por parte de las posidonias cambia la capacidad de carga del medio?
-     + Aumenta la capacidad de carga.
+     + Aumenta la capacidad de carga. Esto también contradice lo que hemos dicho en la parte teórica de la competencia intraespecífica. 
    + ¿Cómo cambia el reclutamiento conforme va aumentando el tamaño de la población?
-     + aumentará 
-     + no es que escape a la competencia, es que esto ocurre al principio del crecimiento...
+     + Por las razones anteriores, el reclutamiento tenderá a aumentar.
+   
+   En el caso de las praderas de *Posidonia* parece que no se cumple ninguno de los preceptos que hemos estudiado sobre la competencia intraespecífica. No es así en realidad. Lamentablemente ningún organismo escapa a la competencia por los recursos. Lo que ocurre en este caso es que estamos describiendo el proceso por el cual se crea una población nueva sobre un terreno deshabitado. En este proceso (llamado sucesión ecológica. La estudiaremos en breve) hay un proceso de facilitación por parte de algunos organismos. Cuando uno llega y consigue establecerse (como en el ejemplo de la *Posidonia*), cambia localmente las condiciones ambientales permitiendo que otros individuos también se establezcan. Esta situación cambia cuando todo el espacio ha sido colonizado por la especie en cuestión. En ese caso es donde se inicia la competencia intraespecífica. 
 
 De los resultados particulares anteriores podemos, además, extraer las siguientes conclusiones generales:
 
@@ -145,7 +150,7 @@ Algunos habréis deducido que hay una relación muy directa entre la competencia
 
 
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/heads/main/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/heads/2025_2026/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente Wikimedia*
 
@@ -157,7 +162,7 @@ Algunos habréis deducido que hay una relación muy directa entre la competencia
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
