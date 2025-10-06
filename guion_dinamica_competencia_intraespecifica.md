@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una sesión teórica en clase
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2023_2024/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2025_2026/imagenes/portada.png)
 
 
 
