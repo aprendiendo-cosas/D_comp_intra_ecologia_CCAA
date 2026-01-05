@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una sesión teórica en clase
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/heads/2025_2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/tags/2025-2026/imagenes/portada.png)
 
 
 
@@ -131,6 +131,7 @@ Tras el trabajo en grupo se realizará una exposición de unos dos minutos por g
    + ¿Cómo cambia el reclutamiento conforme va aumentando el tamaño de la población?
      + Por las razones anteriores, el reclutamiento tenderá a aumentar.
    
+
 En el caso de las praderas de *Posidonia* parece que no se cumple ninguno de los preceptos que hemos estudiado sobre la competencia intraespecífica. No es así en realidad. Lamentablemente ningún organismo escapa a la competencia por los recursos. Lo que ocurre en este caso es que estamos describiendo el proceso por el cual se crea una población nueva sobre un terreno deshabitado. En este proceso (llamado sucesión ecológica. La estudiaremos en breve) hay un proceso de facilitación por parte de algunos organismos. Cuando uno llega y consigue establecerse (como en el ejemplo de la *Posidonia*), cambia localmente las condiciones ambientales permitiendo que otros individuos también se establezcan. Esta situación cambia cuando todo el espacio ha sido colonizado por la especie en cuestión. En ese caso es donde se inicia la competencia intraespecífica. 
 
 De los resultados particulares anteriores podemos, además, extraer las siguientes conclusiones generales:
@@ -150,7 +151,7 @@ Algunos habréis deducido que hay una relación muy directa entre la competencia
 
 
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/heads/2025_2026/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/tags/2025-2026/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente Wikimedia*
 
