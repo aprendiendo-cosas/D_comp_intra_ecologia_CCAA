@@ -78,66 +78,7 @@ Dividiremos en grupos pequeños (unas 4 personas) a la clase. Cada grupo discuti
 
 ### Puesta en común de los grupos (2' por grupo = 10')
 
-Tras el trabajo en grupo se realizará una exposición de unos dos minutos por grupo de las conclusiones obtenidas en cada caso. Trataremos de sacar conclusiones de cada intervención:
-
-1. **Renacuajos en una charla estacional**. 
-   + ¿Compiten por espacio o por recursos en este caso?
-     + Al principio compiten por recursos y luego por espacio cuando la charca disminuye de tamaño. 
-   + ¿Se puede considerar constante la capacidad de carga de la charca?
-     + En primer lugar decimos que la capacidad de carga es constante y que la población, al crecer, "agota" los recursos y la población entra en fase logístico. Esto está mal porque en realidad la población no aumenta. Son los renacuajos los que se hacen más gordotes. Además, la charca mengua porque se va evaporando el agua. Así que no, la capacidad de carga no es constante. 
-   + ¿Qué ocurre cuando se supera la capacidad de carga?
-     + Cuando se llega a la capacidad de carga, los individuos compiten y sobreviven solo los mejor adaptados. Es decir, los que resistan mejor la desecación y la falta de alimento. 
-   
-2. **Ciervos machos en la época de celo**. 
-   + ¿De qué tipo de competencia hablamos aquí?
-     + En primer lugar decimos que compiten por recursos e interfieren entre sí. Pero es mejor decir que hay competencia sexual. Se observa aquí cierta jerarquía porque hay machos más dominantes que otros.
-   + ¿Qué efecto tiene esta competencia en la demografía de la población?
-     + Siempre se eliminan los individuos más débiles. Estos no se reproducen. Puede que esto haga que la población no crezca tanto. Como no se reproducen todos, sino solo los más fuertes, es posible que esto regule el tamaño poblacional. 
-     + También decimos que como los nacimientos ocurren en primavera y en esa época hay más recursos, los jóvenes podrán sobrevivir. Siendo esto cierto, no tiene mucho que ver con el hecho de que los machos compitan por hembras.
-     + Planteamos también que la lucha de los machos puede tener efecto en la sex-ratio. El balance de machos y hembras. Si los machos compiten entre sí y muchos mueren, esto puede desequlibrar la pirámide poblacional. Pero resulta que no son muchos los machos que mueren en las peleas. Solo lo hacen cuando pierden las cuernas y esto les dificulta defenderse de depredadores, por ejemplo.
-   + ¿Qué efecto tendría sobre la población si extrajéramos de la misma los individuos más vigorosos?
-     + En principio podemos pensar que extraer los machos dominantes reduciría la tasa de reproducción porque son esos los que se reproducen. Pero seguramente esto no sea así porque si quitamos a los fuertes los débiles (pagafantas, parguelas, pringaos) podríamos reproducirnos. No estamos seguros de esto último.
-     + Esto provocaría un descenso en la "calidad genética" de la población porque los menos fuertes se reproducirían. 
-   
-3. **Pinar de repoblación muy denso**. 
-   + ¿Qué efecto tiene la competencia en este caso?
-     + Es muy intensa. Reduce la diversidad del bosque. Habrá pocas zonas con sol y habrá pocas especies además de los pinos. 
-     + Además, el crecimiento individual de los pinos se reduce. Conforme van creciendo van acumulando deformaciones y demás problemas porque no hay recursos suficientes para ellos. Tendrán troncos delgados y copas más estrechas. A esto se le llama ley de Yoda. Los organismos que compiten entre sí son más débiles, pequeños y frágiles. 
-     + También podría pasar que todo el bosque sea un caos y mueran todos (en realidad a esto se le llama colapso). 
-   + ¿Cómo será el reclutamiento en un pinar de repoblación denso y antiguo?
-     + Será escaso o nulo porque como el bosque ya está muy grande, el sol llegará con poca intensidad. Esto disminuirá la probabilidad de reclutamiento. Las pocas semillas que se produzcan no podrán germinar. 
-     + Como además el marco de plantación es definido y escaso, hay poco espacio para que crezcan otras plantas e incluso los propios pinos. 
-   + ¿Qué podría pasar si no se limita la competencia cortando algunos árboles?
-     + Que el bosque se "estanque" y los árboles estén débiles. 
-     + Pueden entrar parásitos y otros animales que se alimenten de ellos.
-     + Aumento de riesgo de incendios porque hay mucha biomasa con similar capacidad de quemarse.
-     + Gran probabilidad de colapso porque todos los árboles necesitan recursos a la vez.
-     + Las piñas que arden pueden crear otros incendios en los alrededores. 
-   
-4. **El cainismo en rapaces**. 
-   + ¿Podríamos decir que este fenómeno es competencia intraespecífica?
-     + Sí. Encaja con nuestra definición porque compiten individuos de la misma especie en un contexto en el que los recursos son limitados. Puede que haya poco alimento.
-   + Si no existiera el cainismo, ¿qué efectos tendría en la población que todos los polluelos sobrevivieran?
-     + Al aumentar la población, disminuirían los recursos y los adultos competirían por los mismos. 
-   + ¿Qué efectos tiene sobre el reclutamiento el cainismo?
-     + Tiene un efecto positivo: hay reclutamiento. Alguno. Aunque no salgan adelante todos los polluelos.
-     + El negativo puede ser que se altere el ritmo reproductivo. Al criar solo un polluelo hay menos tasa de natalidad.
-   
-5. **Praderas de *Posidonia***. 
-   + ¿Contradice este fenómeno lo que hemos estudiado sobre la competencia intraespecífica?
-     + En principio sí lo contradice porque habíamos dicho que la competencia dificulta el crecimiento de los individuos y también reduce su capacidad de reproducirse. 
-   + ¿En qué medida la fijación de nutrientes y sedimentos por parte de las posidonias cambia la capacidad de carga del medio?
-     + Aumenta la capacidad de carga. Esto también contradice lo que hemos dicho en la parte teórica de la competencia intraespecífica. 
-   + ¿Cómo cambia el reclutamiento conforme va aumentando el tamaño de la población?
-     + Por las razones anteriores, el reclutamiento tenderá a aumentar.
-   
-
-En el caso de las praderas de *Posidonia* parece que no se cumple ninguno de los preceptos que hemos estudiado sobre la competencia intraespecífica. No es así en realidad. Lamentablemente ningún organismo escapa a la competencia por los recursos. Lo que ocurre en este caso es que estamos describiendo el proceso por el cual se crea una población nueva sobre un terreno deshabitado. En este proceso (llamado sucesión ecológica. La estudiaremos en breve) hay un proceso de facilitación por parte de algunos organismos. Cuando uno llega y consigue establecerse (como en el ejemplo de la *Posidonia*), cambia localmente las condiciones ambientales permitiendo que otros individuos también se establezcan. Esta situación cambia cuando todo el espacio ha sido colonizado por la especie en cuestión. En ese caso es donde se inicia la competencia intraespecífica. 
-
-De los resultados particulares anteriores podemos, además, extraer las siguientes conclusiones generales:
-
-+ En casi ninguno de los ejemplos anteriores se representa la competencia como un aumento en el número de individuos de una población. En la mayoría de los casos la competencia ocurre porque los individuos crecen, ocupan más espacio y requieren más recursos.
-+ Para que los ejemplos anteriores "funcionen bien", es decir, para que cumplan su función de aprendizaje, hemos necesitado incorporar elementos externos a la población: recursos. Es la primera vez que el concepto de población se "nos queda pequeño".
+Aquí pondremos los resultados de la dinámica que hagamos en clase.
 
 
 
