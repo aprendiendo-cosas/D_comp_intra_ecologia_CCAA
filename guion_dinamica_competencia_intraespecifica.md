@@ -9,9 +9,11 @@
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/tags/2025-2026/imagenes/portada.png)
 
+[TOC]
 
+---
 
-## Objetivos 
+## 1 Objetivos 
 
 Esta dinámica participativa tiene los siguientes objetivos de aprendizaje:
 
@@ -29,27 +31,13 @@ Esta dinámica participativa tiene los siguientes objetivos de aprendizaje:
 
 
 
-## Plan de trabajo
+## 2 Plan de trabajo
 
-La sesión consta de tres secciones diferentes:
-
-
-
-### Activación de conocimiento previo (5')
-
-El objetivo de esta fase es que los estudiantes traigan a su memoria de trabajo el conocimiento previamente adquirido sobre la competencia intraespecífica. Para ello el profesor realizará una serie de preguntas al grupo sobre los conceptos clave de la competencia intraespecífica:
-
-+ Definición general.
-+ Efectos de la competencia intraespecífica sobre la mortalidad y la natalidad
-+ Concepto de reclutamiento.
-+ Concepto de capacidad de carga.
-+ Formulación matemática.
-+ Estrategas de la r y de la K
-+ Etc.
+La sesión consta de dos secciones diferentes:
 
 
 
-### Análisis de ejemplos sobre competencia intraespecífica en grupos pequeños (20')
+## 3 Análisis de ejemplos sobre competencia intraespecífica en grupos pequeños (20')
 
 Dividiremos en grupos pequeños (unas 4 personas) a la clase. Cada grupo discutirá el papel que tiene la competencia intraespecífica en una serie de casos de estudio concretos. La competencia intraespecífica tiene orígenes y consecuencias diferentes en cada uno de los siguientes casos de estudio:
 
@@ -69,20 +57,20 @@ Dividiremos en grupos pequeños (unas 4 personas) a la clase. Cada grupo discuti
    + ¿Podríamos decir que este fenómeno es competencia intraespecífica?
    + Si no existiera el cainismo, ¿qué efectos tendría en la población que todos los polluelos sobrevivieran?
    + ¿Qué efectos tiene sobre el reclutamiento el cainismo?
-5. **Praderas de *Posidonia***. La *Posidonia* es una planta acuática (no un alga) muy común en el mediterráneo. Suele formar praderas submarinas de gran densidad. Cuando una planta llega a un sitio adecuado para que se cree una pradera, germina y empieza a fijar sedimentos con sus hojas y raíces. Ese proceso de fijado de nutrientes facilita la germinación y enraizamiento de otras plantas. Es decir, de alguna manera, cuantas más plantas hay, más plantas pueden llegar.
+5. **Praderas de *Posidonia***. La *Posidonia* es una planta acuática (no un alga) muy común en el mar Mediterráneo. Suele formar praderas submarinas de gran densidad. Cuando una planta llega a un sitio adecuado para que se cree una pradera, germina y empieza a fijar sedimentos con sus hojas y raíces. Ese proceso de fijado de nutrientes facilita la germinación y enraizamiento de otras plantas. Es decir, de alguna manera, cuantas más plantas hay, más plantas pueden llegar.
    + ¿Contradice este fenómeno lo que hemos estudiado sobre la competencia intraespecífica?
    + ¿En qué medida la fijación de nutrientes y sedimentos por parte de las posidonias cambia la capacidad de carga del medio?
    + ¿Cómo cambia el reclutamiento conforme va aumentando el tamaño de la población?
 
 
 
-### Puesta en común de los grupos (2' por grupo = 10')
+## 4. Puesta en común de los grupos (2' por grupo = 10')
 
 Aquí pondremos los resultados de la dinámica que hagamos en clase.
 
 
 
-### De la competencia intraespecífica al aprovechamiento humano (15')
+## 5 De la competencia intraespecífica al aprovechamiento humano (15')
 
 Algunos habréis deducido que hay una relación muy directa entre la competencia intraespecífica y la capacidad de la población de "ofrecer" biomasa para ser utilizada por los humanos. En principio podríamos decir que si hay muchos individuos en una población, más probable será que podamos extraer algunos sin comprometer su futuro. Por ejemplo, en un bosque con muchos árboles podremos extraer más árboles que en otro con pocos. Esto es lógico, pero hay matices importantes. En esta última parte de la clase reflexionaremos sobre este asunto como una forma de introducir el siguiente tema: *la explotación de poblaciones*. Para ello trataremos de contestar la siguiente pregunta:
 
@@ -109,6 +97,11 @@ Algunos habréis deducido que hay una relación muy directa entre la competencia
 ****
 
 Haz click [aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+****
+
+[Aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/blob/2026-2027/notas_imparticion_D_comp_intra_ecologia_CCAA.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
+
 
 ****
 
