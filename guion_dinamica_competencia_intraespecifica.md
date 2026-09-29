@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una sesión teórica en clase
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/tags/2025-2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/tags/2026_2027/imagenes/portada.png)
 
 [TOC]
 
@@ -173,7 +173,7 @@ Algunos habréis deducido que hay una relación muy directa entre la competencia
 
 
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/tags/2025-2026/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/refs/tags/2026_2027/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente Wikimedia*
 
@@ -185,7 +185,7 @@ Algunos habréis deducido que hay una relación muy directa entre la competencia
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/archive/refs/tags/2026_2027.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
@@ -193,7 +193,7 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCA
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/blob/2026-2027/notas_imparticion_D_comp_intra_ecologia_CCAA.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
+[Aquí](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/blob/2026_2027/notas_imparticion_D_comp_intra_ecologia_CCAA.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
 
 
 ****
